@@ -1,0 +1,81 @@
+*{
+
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar .nav-link {
+
+    font-size: 14px;
+    text-transform: uppercase;
+    padding-left: 16px !important;
+    padding-left: 16px !important;
+}
+
+.navbar-toggler {
+
+    outline: none !important;
+    
+}
+.bg-black{
+
+    background-color:#175FC4  ;
+
+}
+.titulo1 {
+    text-align: center;
+    background-color:#175FC4;
+    color: white;
+}
+
+
+
+
+/* PLANTILLA PRODUCTOS */
+
+.productos {
+    margin-top: 100px;
+
+}
+
+.textoproducto {
+    background: green;
+    width: 50px;
+    color:white;  
+    font-size: 12px;
+    font-weight:bold;
+}
+
+.tituloproducto {
+
+    color: #555;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.precio{
+    color:green;
+    font-size: 26px;
+    font-weight: bold;
+    padding-top: 20px;
+
+}
+
+.inputproducto {
+    border: 1px solid #ccc;
+    font-weight: bold;
+    height: 33px;
+    text-align: center;
+    width: 30px;
+
+}
+
+.botoncompra {
+    margin-left: 20px;
+}
+
+
+
+/*FORM*/
+
+
